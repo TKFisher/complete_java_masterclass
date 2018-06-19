@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="273e1649-825b-44b5-8f5c-b812dbccdd22" name="Default" comment="" />
+    <list default="true" id="273e1649-825b-44b5-8f5c-b812dbccdd22" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/Section_9/Array_ValueTypes_and_ReferenceTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Section_9/MinimumElementChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_7/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_7/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/Array_52_2_Challenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/Array_52_2_Challenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Section_9/Array_52_2_Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_9/Array_52_2_Challenge.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,30 +18,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Bank.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Section_7/Bank.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MinimumElementChallenge.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Section_9/MinimumElementChallenge.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
-              <folding>
-                <element signature="e#879#960#0" />
-                <element signature="method#Bank#0;class#Bank#0" />
-                <element signature="method#Bank#1;class#Bank#0" />
-                <element signature="method#Bank#2;class#Bank#0" />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Array_52_2_Challenge.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Section_9/Array_52_2_Challenge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Section_6/While_1.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_6/While_2.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_7_Inheritance/Animal.java" />
         <option value="$PROJECT_DIR$/src/com/Section_7_Inheritance/Car.java" />
         <option value="$PROJECT_DIR$/src/com/Section_7_Inheritance/Dog.java" />
         <option value="$PROJECT_DIR$/src/com/Section_7_Inheritance/Fish.java" />
@@ -67,9 +84,7 @@
         <option value="$PROJECT_DIR$/src/com/Section_8_Polymophism/MazeRunner.java" />
         <option value="$PROJECT_DIR$/src/com/Section_8_Polymophism/Movie.java" />
         <option value="$PROJECT_DIR$/src/com/Section_8_Polymophism/StarWars.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_9/Array_52_1.java" />
         <option value="$PROJECT_DIR$/src/com/Section_9/Array_52_2.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_9/Array_52_2_Challenge.java" />
         <option value="$PROJECT_DIR$/src/com/Section_9/Challange_1/Contacts.java" />
         <option value="$PROJECT_DIR$/src/com/Section_9/Challange_1/Main.java" />
         <option value="$PROJECT_DIR$/src/com/Section_9/Challange_1/MobilePhone.java" />
@@ -83,22 +98,28 @@
         <option value="$PROJECT_DIR$/src/com/Section_9/While_Challenge_2.java" />
         <option value="$PROJECT_DIR$/src/com/Section_9/GroceryListMain.java" />
         <option value="$PROJECT_DIR$/src/com/Section_7/Bank.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_9/Array_52_1.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_9/Array_52_2_Challenge.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_9/Array_ValueTypes_and_ReferenceTypes.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_9/Scratch.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_9/MinimumElementChallenge.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="87" />
-    <option name="y" value="27" />
-    <option name="width" value="1226" />
-    <option name="height" value="780" />
+    <option name="x" value="40" />
+    <option name="y" value="108" />
+    <option name="width" value="1207" />
+    <option name="height" value="687" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,14 +138,53 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="complete_java_masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="complete_java_masterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Section_9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="complete_java_masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="complete_java_masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="complete_java_masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="complete_java_masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="complete_java_masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="settings.editor.splitter.proportion" value="0.21355931" />
   </component>
@@ -140,7 +200,62 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MinimumElementChallenge">
+    <configuration name="Array_52_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Section_9.Array_52_1" />
+      <module name="complete_java_masterclass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Section_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Array_52_2_Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Section_9.Array_52_2_Challenge" />
+      <module name="complete_java_masterclass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Section_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Array_ValueTypes_and_ReferenceTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Section_9.Array_ValueTypes_and_ReferenceTypes" />
+      <module name="complete_java_masterclass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Section_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MinimumElementChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Section_9.MinimumElementChallenge" />
+      <module name="complete_java_masterclass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Section_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Scratch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Section_9.Scratch" />
+      <module name="complete_java_masterclass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Section_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -182,6 +297,22 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.Array_52_1" />
+      <item itemvalue="Application.Array_52_2_Challenge" />
+      <item itemvalue="Application.Array_ValueTypes_and_ReferenceTypes" />
+      <item itemvalue="Application.Scratch" />
+      <item itemvalue="Application.MinimumElementChallenge" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MinimumElementChallenge" />
+        <item itemvalue="Application.Scratch" />
+        <item itemvalue="Application.Array_ValueTypes_and_ReferenceTypes" />
+        <item itemvalue="Application.Array_52_2_Challenge" />
+        <item itemvalue="Application.Array_52_1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -197,27 +328,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="87" y="27" width="1226" height="780" extended-state="0" />
+    <frame x="40" y="108" width="1207" height="687" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.16332377" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5008" side_tool="true" weight="0.26217765" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960032" weight="0.27363896" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3412162" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23198012" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4068768" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -225,7 +357,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -233,45 +364,18 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Section_9/Array_ValueTypes_and_ReferenceTypes.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="11" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Section_7/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_7/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_7_Inheritance/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" lean-forward="true" selection-start-column="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_7_Inheritance/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_7_Inheritance/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Section_7_Inheritance/Fish.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -482,27 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_9/Array_52_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" lean-forward="true" selection-start-column="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_9/Array_52_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_9/Array_52_2_Challenge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Section_9/Challange_1/MobilePhone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -524,13 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_9/For.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" lean-forward="true" selection-start-column="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Section_9/GroceryList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -546,13 +622,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Section_9/While.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_9/While_Challenge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="22" selection-start-column="22" selection-end-column="22" />
@@ -591,12 +660,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
           <caret line="70" selection-start-line="70" selection-end-line="70" />
-          <folding>
-            <element signature="e#879#960#0" />
-            <element signature="method#Bank#0;class#Bank#0" />
-            <element signature="method#Bank#1;class#Bank#0" />
-            <element signature="method#Bank#2;class#Bank#0" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Section_9/While_Challenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Section_9/Array_52_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Section_9/Array_52_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Section_9/For.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Section_9/Array_ValueTypes_and_ReferenceTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Section_9/Scratch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Section_9/MinimumElementChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Section_9/Array_52_2_Challenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>

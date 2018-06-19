@@ -9,6 +9,7 @@ public class Array_52_2_Challenge {
     private static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
+
         int[] myIntegers = getIntegers(5);
 
         int[] sorted = sortIntegers(myIntegers);
@@ -17,6 +18,7 @@ public class Array_52_2_Challenge {
 
     // returns and array of integers from the keyboard.
     public static int[] getIntegers(int number) {
+
         System.out.println("Enter " + number + " values \r");
         int[] values = new int[number];
 
