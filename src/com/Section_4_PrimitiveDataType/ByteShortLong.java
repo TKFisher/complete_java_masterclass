@@ -1,10 +1,12 @@
 package com.Section_4_PrimitiveDataType;
 
 
-public class ByteShortLong {
+public class ByteShortLong
+{
 
 
-    public static void main(String[] args){
+    public static void main(String[] args)
+    {
 
         byte myByteVar = -10;
         short myShortVar = 34;
@@ -15,13 +17,10 @@ public class ByteShortLong {
         System.out.println(myLongVar);
 
         // example of casting
-        short shortTotal = (short)(1000 + 10 * (myByteVar + myShortVar + myIntVar));
+        short shortTotal = (short) (1000 + 10 * (myByteVar + myShortVar + myIntVar));
 
         System.out.println(shortTotal);
     }
-
-
-
 
 
 }

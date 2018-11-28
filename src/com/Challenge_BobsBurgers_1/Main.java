@@ -1,9 +1,11 @@
 package com.Challenge_BobsBurgers_1;
 
 
-public class Main {
+public class Main
+{
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
 
         // Bill's Burger Challenge:
         // Our application will help Bill to select types of burgers, some of the additional items (healthAdditions) to
@@ -31,14 +33,14 @@ public class Main {
         // adding totals onto that.
 
 
-        BaseBurger burger1 = new BaseBurger("roll", true);
+        BaseBurger burger1 = new BaseBurger("roll",true);
         burger1.getCost();
-        burger1.costOfAdditions(1, true, true, true, true);
+        burger1.costOfAdditions(1,true,true,true,true);
         burger1.getCost();
 
 
-//        HealthyBurger burgerHealthy1 = new HealthyBurger(new BaseBurger("brown rye roll", true),
-//                true, true);
+        //        HealthyBurger burgerHealthy1 = new HealthyBurger(new BaseBurger("brown rye roll", true),
+        //                true, true);
 
         //burgerHealthy1.costOfHealthyBurgerWithAdditions(true, true);
 

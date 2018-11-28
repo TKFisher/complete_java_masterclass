@@ -1,6 +1,7 @@
 package com.Challenge_BobsBurgers_1;
 
-public class BaseBurger {
+public class BaseBurger
+{
 
 
     // Base ingredients
@@ -16,7 +17,8 @@ public class BaseBurger {
 
 
     // Constructor
-    public BaseBurger(String breadType, boolean specialSauce) {
+    public BaseBurger(String breadType,boolean specialSauce)
+    {
         this.breadType = "roll";
         this.beefPatty = 1;
         this.specialSauce = specialSauce;
@@ -24,38 +26,45 @@ public class BaseBurger {
     }
 
 
-    public double getCost() {
+    public double getCost()
+    {
         System.out.println("Base burger =  " + baseCost);
         return baseCost;
     }
 
 
-    public double costOfAdditions(int addExtraBeef, boolean addCheese, boolean addLettuce, boolean addTomato, boolean addPickles) {
+    public double costOfAdditions(int addExtraBeef,boolean addCheese,boolean addLettuce,boolean addTomato,boolean addPickles)
+    {
 
         double additionalCost = 0;
         double beefUnitCost = 1.0;
 
-        if (addExtraBeef > 0) {
+        if (addExtraBeef > 0)
+        {
             this.extraBeef += addExtraBeef;
             System.out.println("includes " + addExtraBeef + " extra beef");
             additionalCost += extraBeef * beefUnitCost;
         }
-        if (addCheese) {
+        if (addCheese)
+        {
             this.cheese = addCheese;
             System.out.println("includes cheese");
             additionalCost += .50;
         }
-        if (addLettuce) {
+        if (addLettuce)
+        {
             this.lettuce = addLettuce;
             System.out.println("includes lettuce");
             additionalCost += .25;
         }
-        if (addTomato) {
+        if (addTomato)
+        {
             this.tomato = addTomato;
             System.out.println("includes tomato");
             additionalCost += .25;
         }
-        if (addPickles) {
+        if (addPickles)
+        {
             this.pickles = addPickles;
             System.out.println("includes pickles");
             additionalCost += .25;
@@ -64,23 +73,28 @@ public class BaseBurger {
         return addExtraBeef;
     }
 
-    public int getExtraBeef() {
+    public int getExtraBeef()
+    {
         return extraBeef;
     }
 
-    public boolean isCheese() {
+    public boolean isCheese()
+    {
         return cheese;
     }
 
-    public boolean isLettuce() {
+    public boolean isLettuce()
+    {
         return lettuce;
     }
 
-    public boolean isTomato() {
+    public boolean isTomato()
+    {
         return tomato;
     }
 
-    public boolean isPickles() {
+    public boolean isPickles()
+    {
         return pickles;
     }
 }

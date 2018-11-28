@@ -1,10 +1,11 @@
-package  com.Section_4_PrimitiveDataType;
+package com.Section_4_PrimitiveDataType;
 
 
+public class FloatAndDouble
+{
 
-public class FloatAndDouble {
-
-    public static void main(String[] args){
+    public static void main(String[] args)
+    {
 
         int myIntValue = 5;
 
@@ -18,10 +19,7 @@ public class FloatAndDouble {
         double myDoubleVale = 5.25d;
 
 
-
     }
-
-
 
 
 }

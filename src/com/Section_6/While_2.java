@@ -3,14 +3,17 @@ package com.Section_6;
 
 import static java.lang.Integer.sum;
 
-public class While_2 {
+public class While_2
+{
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
 
         System.out.println("******************** Example of Do While Loop");
 
         int count = 1;
-        while (count != 6) {
+        while (count != 6)
+        {
             System.out.println("Count value is " + count);
             // With Do While we have to increment the loop manually like this where as in the For Loop it's done
             // automatically within the first statement.
@@ -19,15 +22,18 @@ public class While_2 {
 
         System.out.println(" **************** Example of For Loop");
 
-        for (int i = 1; i < 6; i++) {
+        for (int i = 1; i < 6; i++)
+        {
             System.out.println("Count value is " + i);
         }
 
         System.out.println(" **************** Example of While Loop but done in a different way using 'true'.");
 
         count = 1;
-        while (true) {
-            if (count == 6) {
+        while (true)
+        {
+            if (count == 6)
+            {
                 break;
             }
             System.out.println("Count value is " + count);
@@ -39,7 +45,8 @@ public class While_2 {
         // when you run it without the 'count' variable being initialized to 1 and the 'count++" commented out.
 
         count = 1;
-        do {
+        do
+        {
             System.out.println("Count value was " + count);
             count++;
         } while (count != 6);
@@ -48,10 +55,12 @@ public class While_2 {
         // If I add a 'break' statement it will get us out of the loop.
 
         count = 6;
-        do {
+        do
+        {
             System.out.println("Count value was " + count);
             count++;
-            if (count > 10) {
+            if (count > 10)
+            {
                 break;
             }
         } while (count != 6);
@@ -65,8 +74,10 @@ public class While_2 {
 
         int number = 5;
         int finishNumber = 20;
-        while (number <= finishNumber){
-            if(!isEvenNumber(number)){
+        while (number <= finishNumber)
+        {
+            if (!isEvenNumber(number))
+            {
                 number++;
                 continue;
             }
@@ -83,32 +94,40 @@ public class While_2 {
         int number2 = 5;
         int finishNumber2 = 20;
         int totalEvenFound = 0;
-        while (number2 <= finishNumber2){
-            if(!isEvenNumber(number2)){
+        while (number2 <= finishNumber2)
+        {
+            if (!isEvenNumber(number2))
+            {
                 number2++;
                 continue;
-            }if (isEvenNumber(number2)) {
+            }
+            if (isEvenNumber(number2))
+            {
                 totalEvenFound++;
-                System.out.println("Even number " + number2 );
+                System.out.println("Even number " + number2);
                 //System.out.println("Total numbers found is " + totalEvenFound);
                 number2++;
-                if(totalEvenFound >= 5){
+                if (totalEvenFound >= 5)
+                {
                     System.out.println("Total even numbers found is " + totalEvenFound);
                     break;
-                }}}
+                }
+            }
+        }
     }
 
     // Methods
-    public static boolean isEvenNumber(int y) {
+    public static boolean isEvenNumber(int y)
+    {
 
-//        16 % 2 = 0    OR:    15 % 2 = 1
-//        if x == 0 the value for y is even
-//        if x < 0 the value for y is odd
+        //        16 % 2 = 0    OR:    15 % 2 = 1
+        //        if x == 0 the value for y is even
+        //        if x < 0 the value for y is odd
 
-        if ((y % 2) == 0) {
+        if ((y % 2) == 0)
+        {
             return true;
-        }else
-            return false;
+        } else return false;
     }
 
 

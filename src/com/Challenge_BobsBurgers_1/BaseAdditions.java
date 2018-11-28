@@ -1,7 +1,8 @@
 package com.Challenge_BobsBurgers_1;
 
 
-public class BaseAdditions {
+public class BaseAdditions
+{
 
     private int extraBeef = 0;
     private boolean cheese = false;
@@ -11,71 +12,84 @@ public class BaseAdditions {
     private double cost;
 
 
-    public  BaseAdditions(int addExtraBeef, boolean addCheese, boolean addLettuce, boolean addTomato, boolean addPickles) {
+    public BaseAdditions(int addExtraBeef,boolean addCheese,boolean addLettuce,boolean addTomato,boolean addPickles)
+    {
 
         double additionalCost = 0;
         double beefUnitCost = 1.0;
 
-        if (addExtraBeef > 0) {
+        if (addExtraBeef > 0)
+        {
             this.extraBeef += addExtraBeef;
             System.out.println("includes " + addExtraBeef + " extra beef");
             additionalCost += extraBeef * beefUnitCost;
         }
-        if (addCheese) {
+        if (addCheese)
+        {
             this.cheese = addCheese;
             System.out.println("includes cheese");
             additionalCost += .50;
         }
-        if (addLettuce) {
+        if (addLettuce)
+        {
             this.lettuce = addLettuce;
             System.out.println("includes lettuce");
             additionalCost += .25;
         }
-        if (addTomato) {
+        if (addTomato)
+        {
             this.tomato = addTomato;
             System.out.println("includes tomato");
             additionalCost += .25;
-    }
-        if (addPickles) {
-        this.pickles = addPickles;
-        System.out.println("includes pickles");
-        additionalCost += .25;
-    }
+        }
+        if (addPickles)
+        {
+            this.pickles = addPickles;
+            System.out.println("includes pickles");
+            additionalCost += .25;
+        }
 
         System.out.println("Additions = " + additionalCost);
         this.cost += additionalCost;
     }
 
-    public double getCost() {
+    public double getCost()
+    {
         return cost;
     }
 
 
-    public double costBaseAdditions(int addExtraBeef, boolean addCheese, boolean addLettuce, boolean addTomato, boolean addPickles){
+    public double costBaseAdditions(int addExtraBeef,boolean addCheese,boolean addLettuce,boolean addTomato,boolean addPickles)
+    {
 
         double additionalCost = 0;
         double beefUnitCost = 1.00;
 
-        if (addExtraBeef > 0) {
+        if (addExtraBeef > 0)
+        {
             this.extraBeef += addExtraBeef;
             additionalCost += extraBeef * beefUnitCost;
         }
-        if (addCheese) {
+        if (addCheese)
+        {
             this.cheese = addCheese;
             System.out.println("includes cheese");
             additionalCost += .50;
         }
-        if (addLettuce) {
+        if (addLettuce)
+        {
             this.cheese = addLettuce;
             System.out.println("includes lettuce");
             additionalCost += .25;
         }
-        if (addTomato) {
+        if (addTomato)
+        {
             this.cheese = addTomato;
             System.out.println("includes tomato");
             additionalCost += .25;
         }
-        if (addPickles) {
+        if (addPickles)
+        {
             this.cheese = addPickles;
             System.out.println("includes pickles");
             additionalCost += .25;

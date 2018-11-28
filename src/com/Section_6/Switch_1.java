@@ -1,13 +1,16 @@
 package com.Section_6;
 
 
-public class Switch_1 {
+public class Switch_1
+{
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
 
         int switchValue = 4;
 
-        switch (switchValue) {
+        switch (switchValue)
+        {
 
             case 1:
                 System.out.println("Value was 1.");
@@ -37,7 +40,8 @@ public class Switch_1 {
 
         char myCharVar = 'A';
 
-        switch (myCharVar) {
+        switch (myCharVar)
+        {
             case 'A':
                 System.out.println(myCharVar + " was found.");
                 break;
@@ -53,7 +57,8 @@ public class Switch_1 {
 
         // Example using a String and the method toLowerCase()
         String month = "JAnuarY";
-        switch (month.toLowerCase()) {
+        switch (month.toLowerCase())
+        {
             case "january":
                 System.out.println("The month is " + month);
                 break;

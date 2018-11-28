@@ -1,10 +1,12 @@
-package  com.Section_4_PrimitiveDataType;
+package com.Section_4_PrimitiveDataType;
 
 
-public class CharAndBoolean {
+public class CharAndBoolean
+{
 
 
-    public static void main(String[] args){
+    public static void main(String[] args)
+    {
 
         char myCharVar_1 = 'd';
         //unicode example of a char
@@ -21,34 +23,28 @@ public class CharAndBoolean {
 
 
         boolean isAlien = false;
-        if (isAlien == true)
-            System.out.println("It is not an alien.");
+        if (isAlien == true) System.out.println("It is not an alien.");
 
         int topScore = 80;
-        if (topScore < 100)
-            System.out.println("You got a high score.");
+        if (topScore < 100) System.out.println("You got a high score.");
 
 
         int secondScore = 81;
-        if ((topScore > secondScore) && (topScore < 100) )
+        if ((topScore > secondScore) && (topScore < 100))
             System.out.println("Greater than second top score and less than 100.");
 
-        if ((topScore > 90) || (secondScore <= 100))
-            System.out.println("One of these tests is true.");
+        if ((topScore > 90) || (secondScore <= 100)) System.out.println("One of these tests is true.");
 
         int newValue = 50;
-        if(newValue == 50)
-            System.out.println("This is true.");
+        if (newValue == 50) System.out.println("This is true.");
 
         boolean isCar = false;
-        if(isCar == true)
-            System.out.println("isCar should be 'false', but you've re-assigned it to 'true'.");
+        if (isCar == true) System.out.println("isCar should be 'false', but you've re-assigned it to 'true'.");
 
         //Ternary example
         isCar = true;
         boolean wasCar = isCar ? true : false;
-        if (wasCar)
-            System.out.println("'wasCar' is true.");
+        if (wasCar) System.out.println("'wasCar' is true.");
 
         //Challenge:
         double myFirstVar = 20d;
@@ -60,10 +56,7 @@ public class CharAndBoolean {
         double myRemainder = myFirstTotal % 40;
         // 2500 / 40 = 62.5;   62 * 40 = 2480;    2500 - 2480 = 20
         System.out.println(myRemainder);
-        if (myRemainder <= 20)
-        System.out.println("Total was over the limit.");
-
-
+        if (myRemainder <= 20) System.out.println("Total was over the limit.");
 
 
     }
