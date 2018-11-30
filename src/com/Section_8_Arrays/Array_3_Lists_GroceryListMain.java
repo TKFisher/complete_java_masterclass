@@ -3,10 +3,10 @@ package com.Section_8_Arrays;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class GroceryListMain
+public class Array_3_Lists_GroceryListMain
 {
     private static Scanner scanner = new Scanner(System.in);
-    private static GroceryList groceryList = new GroceryList();
+    private static Array_3_Lists_GroceryList groceryList = new Array_3_Lists_GroceryList();
 
     public static void main(String[] args)
     {

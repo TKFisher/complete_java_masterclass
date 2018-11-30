@@ -5,7 +5,6 @@ import java.util.Arrays;
 public class Array_2_ValueTypes_and_ReferenceTypes
 {
 
-
     public static void main(String[] args)
     {
         int myIntValue = 10;
@@ -26,7 +25,16 @@ public class Array_2_ValueTypes_and_ReferenceTypes
         System.out.println("myIntArray = " + Arrays.toString(myIntArray));
         System.out.println("anotherArray = " + Arrays.toString(anotherArray));
 
-        anotherArray[0] = 1;
+        int populateWith = 1;
+        for(int i = 0; i < myIntArray.length; i++){
+            myIntArray[i] = populateWith;
+            populateWith += 1;
+        }
+
+        System.out.println("myIntArray = " + Arrays.toString(myIntArray));
+        System.out.println("anotherArray = " + Arrays.toString(anotherArray));
+
+        anotherArray[0] = 9;
 
         System.out.println("after change myIntArray = " + Arrays.toString(myIntArray));
         System.out.println("after change anotherArray = " + Arrays.toString(anotherArray));
@@ -36,13 +44,13 @@ public class Array_2_ValueTypes_and_ReferenceTypes
 
         System.out.println("after modify myIntArray = " + Arrays.toString(myIntArray));
         System.out.println("after modify anotherArray = " + Arrays.toString(anotherArray));
-    }
-
+}
 
     private static void modifyArray(int[] array)
     {
-        array[0] = 2;
-        array = new int[]{1,2,3,4,5};
-
+        array[0] = 0;
+        System.out.println("Method print out for passed in value for updated index value to " + Arrays.toString(array));
+        array = new int[]{6,7,8,9,0};
+        System.out.println("Method print out for new array within method with the following values:  " + Arrays.toString(array));
     }
 }

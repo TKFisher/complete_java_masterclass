@@ -2,7 +2,7 @@ package com.Section_8_Arrays;
 
 import java.util.Scanner;
 
-public class Array_1_Challenge
+public class Array_1a_Challenge
 {
 
     private static Scanner scanner = new Scanner(System.in);

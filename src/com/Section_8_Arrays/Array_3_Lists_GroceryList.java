@@ -3,7 +3,7 @@ package com.Section_8_Arrays;
 
 import java.util.ArrayList;
 
-public class GroceryList
+public class Array_3_Lists_GroceryList
 {
 
     /**
@@ -31,7 +31,7 @@ public class GroceryList
 
     public static void addGroceryItem(String item)
     {
-        // we can pass values to the ArrayList this way:
+        // pass values to the ArrayList:
         groceryList.add(item);
     }
 
@@ -113,8 +113,8 @@ public class GroceryList
             return true;
         }
         return false;
-
     }
+
 
 
 }

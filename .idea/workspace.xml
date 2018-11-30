@@ -2,164 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="273e1649-825b-44b5-8f5c-b812dbccdd22" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Array_2_Challenge_MinimumElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Array_2_ValueTypes_and_ReferenceTypes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2_Challenge_MinimumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2_Challenge_ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2_ResizingExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Challenge_BobsBurgers_1/BaseAdditions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Challenge_BobsBurgers_1/BaseAdditions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Challenge_BobsBurgers_1/BaseBurger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Challenge_BobsBurgers_1/BaseBurger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Challenge_BobsBurgers_1/HealthyAdditions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Challenge_BobsBurgers_1/HealthyAdditions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Challenge_BobsBurgers_1/HealthyBurger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Challenge_BobsBurgers_1/HealthyBurger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Challenge_BobsBurgers_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Challenge_BobsBurgers_1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Challenge_BobsBurgers_2/BaseBurger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Challenge_BobsBurgers_2/BaseBurger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Challenge_BobsBurgers_2/DeluxBurger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Challenge_BobsBurgers_2/DeluxBurger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Challenge_BobsBurgers_2/HealthyBurger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Challenge_BobsBurgers_2/HealthyBurger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Challenge_BobsBurgers_2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Challenge_BobsBurgers_2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_4_PrimitiveDataType/ByteShortLong.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_4_PrimitiveDataType/ByteShortLong.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_4_PrimitiveDataType/CharAndBoolean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_4_PrimitiveDataType/CharAndBoolean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_4_PrimitiveDataType/FloatAndDouble.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_4_PrimitiveDataType/FloatAndDouble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_5/Challenge_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_5/Challenge_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_5/Expressions_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_5/Expressions_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_5/Methods_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_5/Methods_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_5/Methods_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_5/Methods_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_5/Methods_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_5/Methods_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_5/methodOverloading_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_5/methodOverloading_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_5/methodOverloading_1_Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_5/methodOverloading_1_Teacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_6/Switch_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_6/Switch_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_6/While_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_6/While_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_6/While_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_6/While_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_7/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_7/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_7/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_7/VipCustomer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_7_Inheritance/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_7_Inheritance/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_7_Inheritance/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_7_Inheritance/Fish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_7_Inheritance/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_7_Inheritance/Porche.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_7_Inheritance/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Composition/Cable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Composition/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Composition/Case.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Composition/Dimensions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Composition/Furniture.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Composition/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Composition/Monitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Composition/Motherboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Composition/PC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Composition/Resolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Composition/Room.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Composition/Utilities.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Composition/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Encapsulation/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Encapsulation/Player1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Encapsulation/Player2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Encapsulation/Printer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Encapsulation/Printer2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Polymophism/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Polymophism/ForgetableMovie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Polymophism/IndependenceDay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Polymophism/Jaws.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Polymophism/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Polymophism/MainChallenge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Polymophism/MazeRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Polymophism/Movie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Polymophism/StarWars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Polymophism/Toyota.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/Array_52_1$Array_54_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/Array_52_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/Array_52_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/Array_52_2_Challenge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/Array_ValueTypes_and_ReferenceTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/Challange_1/Contacts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/Challange_1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/Challange_1/MobilePhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/For.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/GroceryList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/GroceryListMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/MinimumElementChallenge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/MobilePhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/Scratch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/Switch_Challenge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/Switch_Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/While.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/While_Challenge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_9/While_Challenge_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_1/BaseAdditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_1/BaseAdditions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_1/BaseBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_1/BaseBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_1/DeluxBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_1/DeluxBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_1/HealthyAdditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_1/HealthyAdditions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_1/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_1/HealthyBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_2/BaseBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_2/BaseBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_2/DeluxBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_2/DeluxBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_2/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_2/HealthyBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Challenge_BobsBurgers_2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_4_PrimitiveDataType/ByteShortLong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_4_PrimitiveDataType/ByteShortLong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_4_PrimitiveDataType/CharAndBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_4_PrimitiveDataType/CharAndBoolean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_4_PrimitiveDataType/FloatAndDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_4_PrimitiveDataType/FloatAndDouble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_5/Challenge_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_5/Challenge_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_5/Expressions_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_5/Expressions_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_5/Methods_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_5/Methods_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_5/Methods_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_5/Methods_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_5/Methods_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_5/Methods_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_5/methodOverloading_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_5/methodOverloading_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_5/methodOverloading_1_Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_5/methodOverloading_1_Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_6/Switch_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_6/Switch_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_6/While_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_6/While_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_6/While_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_6/While_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_7/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_6_Challenge/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_7/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_6_Challenge/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_6_Challenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_7/VipCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_6_Challenge/VipCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_7_Inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_6_Inheritance/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_7_Inheritance/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_6_Inheritance/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_7_Inheritance/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_6_Inheritance/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_7_Inheritance/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_6_Inheritance/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_7_Inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_6_Inheritance/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_7_Inheritance/Porche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_6_Inheritance/Porche.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_7_Inheritance/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_6_Inheritance/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Composition/Cable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Composition/Cable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Composition/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Composition/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Composition/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Composition/Case.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Composition/Dimensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Composition/Dimensions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Composition/Furniture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Composition/Furniture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Composition/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Composition/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Composition/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Composition/Monitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Composition/Motherboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Composition/Motherboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Composition/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Composition/PC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Composition/Resolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Composition/Resolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Composition/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Composition/Room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Composition/Utilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Composition/Utilities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Composition/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Composition/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Encapsulation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Encapsulation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Encapsulation/Player1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Encapsulation/Player1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Encapsulation/Player2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Encapsulation/Player2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Encapsulation/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Encapsulation/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Encapsulation/Printer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Encapsulation/Printer2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Polymophism/ForgetableMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Polymophism/ForgetableMovie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Polymophism/IndependenceDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Polymophism/IndependenceDay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Polymophism/Jaws.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Polymophism/Jaws.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Polymophism/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Polymophism/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Polymophism/MainChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Polymophism/MainChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Polymophism/MazeRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Polymophism/MazeRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Polymophism/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Polymophism/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Polymophism/StarWars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Polymophism/StarWars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_9/Array_52_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_9/Array_52_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_9/Array_52_2_Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1_Challenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_9/Array_ValueTypes_and_ReferenceTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2_ValueTypes_and_ReferenceTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_9/Challange_1/Contacts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Challange_1/Contacts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_9/Challange_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Challange_1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_9/Challange_1/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Challange_1/MobilePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_9/For.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/For.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_9/GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/GroceryList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_9/GroceryListMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/GroceryListMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_9/MinimumElementChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/MinimumElementChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_9/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/MobilePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_9/Switch_Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Switch_Challenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_9/Switch_Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Switch_Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_9/While.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/While.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_9/While_Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/While_Challenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_9/While_Challenge_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/While_Challenge_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Array_1$arrayMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Array_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Array_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Array_1_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Array_1_Challenge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Array_ValueTypes_and_ReferenceTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/MinimumElementChallenge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1_Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1a_Challenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2_ValueTypes_and_ReferenceTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2_ValueTypes_and_ReferenceTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Arrays/GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_GroceryList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Arrays/GroceryListMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_GroceryListMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Arrays/MinimumElementChallenge.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -172,16 +33,18 @@
     <session id="-489700096">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -192,8 +55,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="955" />
-          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="JAVA" value="4260" />
+          <entry key="PLAIN_TEXT" value="116" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -206,20 +69,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1_Challenge.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_GroceryList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="639">
-              <caret line="68" column="65" selection-start-line="68" selection-start-column="65" selection-end-line="68" selection-end-column="65" />
+            <state relative-caret-position="811">
+              <caret line="118" selection-start-line="118" selection-end-line="118" />
+              <folding>
+                <element signature="e#458#466#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#740#741#0" expanded="true" />
+                <element signature="e#2751#2752#0" expanded="true" />
+                <element signature="e#2805#2806#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2_ValueTypes_and_ReferenceTypes.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_GroceryListMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="-8">
+              <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -239,21 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Section_8_Composition/Case.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_8_Composition/Dimensions.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_8_Composition/Furniture.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_8_Composition/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_8_Composition/Monitor.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_8_Composition/Motherboard.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_8_Composition/PC.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_8_Composition/Resolution.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_8_Composition/Room.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_8_Composition/Utilities.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_8_Composition/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_8_Encapsulation/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_8_Encapsulation/Player1.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_8_Encapsulation/Player2.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_8_Encapsulation/Printer.java" />
         <option value="$PROJECT_DIR$/src/com/Section_8_Encapsulation/Printer2.java" />
         <option value="$PROJECT_DIR$/src/com/Section_8_Polymophism/ForgetableMovie.java" />
         <option value="$PROJECT_DIR$/src/com/Section_8_Polymophism/IndependenceDay.java" />
@@ -285,19 +143,34 @@
         <option value="$PROJECT_DIR$/src/com/Section_8/Array_52_1.java" />
         <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_52_1.java" />
         <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_52_2.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1.java" />
         <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1_Challenge.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1a.java" />
         <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1_2.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2_MinimumElementChallenge.java" />
         <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2_ValueTypes_and_ReferenceTypes.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2_Challenge_MinimumElement.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Arrays_2_Challenge_ReverseArray.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/ListAndArrayList_1_Example.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2_1_ResizingExample.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1_b.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2a_ResizingExample.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1a.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1a_Challenge.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2_b_ResizingExample.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2_ResizingExample.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/ArrayList_1_GroceryList.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/ArrayList_3_GroceryList.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2_Challenge_ReverseArray.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_GroceryListMain.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_GroceryList.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="966" />
-    <option name="y" value="-1409" />
-    <option name="width" value="1899" />
-    <option name="height" value="1400" />
+    <option name="x" value="805" />
+    <option name="y" value="-1283" />
+    <option name="width" value="1774" />
+    <option name="height" value="1073" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -307,7 +180,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -333,10 +205,41 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="Section_8_Arrays" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="complete_java_masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="complete_java_masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="complete_java_masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="complete_java_masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="complete_java_masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -358,61 +261,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Array_2_ValueTypes_and_ReferenceTypes">
+  <component name="RunManager" selected="Application.Array_3_Lists_GroceryListMain">
     <configuration name="Array_1$arrayMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Section_8_Arrays.Array_1$arrayMethod" />
       <module name="complete_java_masterclass" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Section_8_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Section_8_Arrays.Array_1" />
+    <configuration name="Array_2_Challenge_ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Section_8_Arrays.Array_2_Challenge_ReverseArray" />
       <module name="complete_java_masterclass" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array_1_Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Section_8_Arrays.Array_1_Challenge" />
-      <module name="complete_java_masterclass" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Section_8_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array_2_ValueTypes_and_ReferenceTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Section_8_Arrays.Array_2_ValueTypes_and_ReferenceTypes" />
+    <configuration name="Array_2_ResizingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Section_8_Arrays.Array_2_ResizingExample" />
       <module name="complete_java_masterclass" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroceryList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Section_8_Arrays.GroceryList" />
+    <configuration name="Array_3_Lists_GroceryList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Section_8_Arrays.Array_3_Lists_GroceryList" />
       <module name="complete_java_masterclass" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Section_8_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_3_Lists_GroceryListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Section_8_Arrays.Array_3_Lists_GroceryListMain" />
+      <module name="complete_java_masterclass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -438,19 +323,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GroceryList" />
+      <item itemvalue="Application.Array_2_Challenge_ReverseArray" />
       <item itemvalue="Application.Array_1$arrayMethod" />
-      <item itemvalue="Application.Array_1_Challenge" />
-      <item itemvalue="Application.Array_1" />
-      <item itemvalue="Application.Array_2_ValueTypes_and_ReferenceTypes" />
+      <item itemvalue="Application.Array_2_ResizingExample" />
+      <item itemvalue="Application.Array_3_Lists_GroceryList" />
+      <item itemvalue="Application.Array_3_Lists_GroceryListMain" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array_2_ValueTypes_and_ReferenceTypes" />
-        <item itemvalue="Application.Array_1_Challenge" />
-        <item itemvalue="Application.Array_1" />
+        <item itemvalue="Application.Array_3_Lists_GroceryListMain" />
+        <item itemvalue="Application.Array_3_Lists_GroceryList" />
+        <item itemvalue="Application.Array_2_ResizingExample" />
         <item itemvalue="Application.Array_1$arrayMethod" />
-        <item itemvalue="Application.GroceryList" />
+        <item itemvalue="Application.Array_2_Challenge_ReverseArray" />
       </list>
     </recent_temporary>
   </component>
@@ -468,9 +353,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="966" y="-1409" width="1899" height="1400" extended-state="0" />
+    <frame x="805" y="-1283" width="1774" height="1073" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22455573" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -479,16 +365,16 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960032" visible="true" weight="0.18960245" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4045677" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925585" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960032" weight="0.22629969" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1590214" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32944345" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5008" side_tool="true" weight="0.26217765" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.16332377" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.16309887" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -505,39 +391,53 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>System.out.println((i + 1) + &quot;. &quot; + groceryList.get(i))</expression-string>
+        <expression-string>temp</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>System.out.println((i + 1)</expression-string>
+        <expression-string>array[i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>array[maxIndex - i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>array[maxIndex]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>maxIndex - i</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>maxIndex</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>[maxIndex - i ]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>array[maxIndex - i ]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nonOrderedArray[i +1]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Section_6_Inheritance/Fish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_6_Inheritance/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_6_Inheritance/Porche.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Section_6_Inheritance/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -811,63 +711,94 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Section_9/Scratch.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2_Challenge_MinimumElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1a_Challenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="679">
+          <caret line="68" column="65" selection-start-line="68" selection-start-column="65" selection-end-line="68" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/For.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="15">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_9/Scratch.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/MinimumElementChallenge.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2_Challenge_ReverseArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/GroceryListMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        <state relative-caret-position="496">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/GroceryList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2_ResizingExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_1_Challenge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
-          <caret line="68" column="65" selection-start-line="68" selection-start-column="65" selection-end-line="68" selection-end-column="65" />
+        <state relative-caret-position="315">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_2_ValueTypes_and_ReferenceTypes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="675">
+          <caret line="45" column="91" selection-start-line="45" selection-start-column="91" selection-end-line="45" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_GroceryListMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_GroceryList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="811">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+          <folding>
+            <element signature="e#458#466#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#2751#2752#0" expanded="true" />
+            <element signature="e#2805#2806#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

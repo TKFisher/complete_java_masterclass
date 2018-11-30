@@ -3,7 +3,7 @@ package com.Section_8_Arrays;
 
 import java.util.Scanner;
 
-public class Array_1_2
+public class Array_1a
 {
 
     private static Scanner scanner = new Scanner(System.in);
