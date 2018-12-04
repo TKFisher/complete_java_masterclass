@@ -3,7 +3,7 @@ package com.Section_7_Encapsulation;
 /*
  *  Encapsulation includes making your fields 'private' so that they are not accessible outside of the class.
  *  By making the fields private I can later change refactor the names of the fields and
- *  it will not have an impact on the class when called from the Main method.
+ *  it will not have an impact on the class when called from the MainMobile method.
  * */
 
 

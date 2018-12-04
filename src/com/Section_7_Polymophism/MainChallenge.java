@@ -85,7 +85,7 @@ public class MainChallenge
 
         System.out.println("***** Challenge **** ");
 
-        // Put all classes in one java file in Main to demonstrate that you can have more than one class in a file.
+        // Put all classes in one java file in MainMobile to demonstrate that you can have more than one class in a file.
         // Create a base class called Car.
         // It should have a few fields that would be appropriate for a generic Car class:
         //   engine, cylinders, wheels etc.

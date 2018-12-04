@@ -53,6 +53,7 @@ public class Array_3_Lists_GroceryList
     }
 
     // (2)
+    // This method allows us to pass the item to be removed, and pass in the item we want to add.
     public void modifyGroceryItem(String currentItem,String newItem)
     {
         int position = findItem_2(currentItem);
@@ -100,6 +101,7 @@ public class Array_3_Lists_GroceryList
     }
 
     // (2)
+    // Returns an int of the index position for the item we are searching for.
     private int findItem_2(String searchItem)
     {
         return groceryList.indexOf(searchItem);

@@ -64,7 +64,7 @@ public class Array_3_Lists_GroceryListMain
         // OR:  take the contents of the array list and convert that back to a regular array.
         // step 1: initialize array to correct size.
         String[] myArray = new String[groceryList.getGroceryList().size()];
-        // step 2:  return array.
+        // step 2:  return array as a list of strings.
         myArray = groceryList.getGroceryList().toArray(myArray);
     }
 
