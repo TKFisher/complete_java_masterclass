@@ -99,9 +99,10 @@ public class MobilePhone
         System.out.println("Contact List");
         for (int i = 0; i < this.myContacts.size(); i++)
         {
-            System.out.println((i + 1) + "." + this.myContacts.get(i).getName() + " -> " + this.myContacts.get(i).getPhoneNumber());
+            System.out.println((i + 1) + "." +
+                    this.myContacts.get(i).getName() + " -> " +
+                    this.myContacts.get(i).getPhoneNumber());
         }
-
     }
 
 }

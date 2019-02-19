@@ -2,27 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="273e1649-825b-44b5-8f5c-b812dbccdd22" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Array_3_Listss_Challange_1/Contact.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Array_3_Listss_Challange_1/MainMobile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Array_3_Listss_Challange_1/MobilePhone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/MainMobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/MobilePhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Array_3_Lists_GroceryList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Array_3_Lists_GroceryList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Challange_1/Contacts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Challange_1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Challange_1/MobilePhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/MobilePhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/MobilePhone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_6_Challenge/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_6_Challenge/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_7_Encapsulation/Player2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Encapsulation/Player2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_7_Polymophism/MainChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_7_Polymophism/MainChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_GroceryList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_GroceryListMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_GroceryListMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Arrays/Challange_1/Contacts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Arrays/Challange_1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Arrays/Challange_1/MobilePhone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Arrays/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Array_3_Listss_Challange_1/Contact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Array_3_Listss_Challange_1/MainMobile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/complete_java_masterclass/com/Section_8_Arrays/Array_3_Listss_Challange_1/MobilePhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/MobilePhone.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,54 +15,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-489700096">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="55" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="25" />
-          <entry key="java" value="955" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="6726" />
-          <entry key="PLAIN_TEXT" value="136" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/MobilePhone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="417">
+              <caret line="28" column="32" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="32" />
               <folding>
-                <element signature="e#1636#1637#0" expanded="true" />
-                <element signature="e#1691#1692#0" expanded="true" />
+                <element signature="e#1722#1723#0" expanded="true" />
+                <element signature="e#1777#1778#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,24 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/MainMobile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
-              <folding>
-                <element signature="e#4693#4694#0" expanded="true" />
-                <element signature="e#4748#4749#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_GroceryListMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="64" column="52" lean-forward="true" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="955">
+              <caret line="143" lean-forward="true" selection-start-line="143" selection-end-line="143" />
             </state>
           </provider>
         </entry>
@@ -115,11 +45,7 @@
             <state relative-caret-position="210">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#418#419#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -140,8 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Section_8_Polymophism/MazeRunner.java" />
-        <option value="$PROJECT_DIR$/src/com/Section_8_Polymophism/Movie.java" />
         <option value="$PROJECT_DIR$/src/com/Section_8_Polymophism/StarWars.java" />
         <option value="$PROJECT_DIR$/src/com/Section_9/Array_52_2.java" />
         <option value="$PROJECT_DIR$/src/com/Section_9/Challange_1/Contacts.java" />
@@ -191,14 +115,16 @@
         <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Listss_Challange_1/Contact.java" />
         <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Listss_Challange_1/MobilePhone.java" />
         <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Listss_Challange_1/MainMobile.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Scratch.java" />
+        <option value="$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/MobilePhone.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="897" />
-    <option name="y" value="-1417" />
-    <option name="width" value="1846" />
-    <option name="height" value="1337" />
+    <option name="x" value="1031" />
+    <option name="y" value="-1371" />
+    <option name="width" value="1928" />
+    <option name="height" value="1217" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -207,7 +133,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,13 +161,21 @@
             </path>
             <path>
               <item name="complete_java_masterclass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="complete_java_masterclass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Section_8_Arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="Array_3_Lists_Challenge_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="complete_java_masterclass" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -264,14 +198,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.MainMobile">
-    <configuration name="Array_1$arrayMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Section_8_Arrays.Array_1$arrayMethod" />
-      <module name="complete_java_masterclass" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Array_2_ResizingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Section_8_Arrays.Array_2_ResizingExample" />
       <module name="complete_java_masterclass" />
@@ -304,6 +230,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scratch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Section_8_Arrays.Scratch" />
+      <module name="complete_java_masterclass" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -311,12 +245,13 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -325,19 +260,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Array_1$arrayMethod" />
       <item itemvalue="Application.Array_2_ResizingExample" />
       <item itemvalue="Application.Array_3_Lists_GroceryList" />
       <item itemvalue="Application.Array_3_Lists_GroceryListMain" />
       <item itemvalue="Application.MainMobile" />
+      <item itemvalue="Application.Scratch" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MainMobile" />
+        <item itemvalue="Application.Scratch" />
         <item itemvalue="Application.Array_3_Lists_GroceryListMain" />
         <item itemvalue="Application.Array_3_Lists_GroceryList" />
         <item itemvalue="Application.Array_2_ResizingExample" />
-        <item itemvalue="Application.Array_1$arrayMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -355,9 +290,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="897" y="-1417" width="1846" height="1337" extended-state="0" />
+    <frame x="1031" y="-1371" width="1928" height="1217" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20620842" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19989395" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -374,7 +310,7 @@
       <window_info anchor="bottom" id="Terminal" order="6" weight="0.32944345" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5008" side_tool="true" weight="0.26217765" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.16309887" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.16272967" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -383,7 +319,8 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Run" order="8" sideWeight="0.49960032" visible="true" weight="0.27993348" />
+      <window_info active="true" anchor="right" id="Run" order="8" sideWeight="0.49960032" visible="true" weight="0.2598091" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24002217" />
@@ -414,57 +351,6 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout-to-restore>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/MobilePhone.java</url>
-          <line>31</line>
-          <properties />
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/MobilePhone.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/MobilePhone.java</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/MobilePhone.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/MobilePhone.java</url>
-          <line>37</line>
-          <properties />
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/MobilePhone.java</url>
-          <line>40</line>
-          <properties />
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/MobilePhone.java</url>
-          <line>42</line>
-          <properties />
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -516,13 +402,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Section_7_Composition/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Section_7_Composition/Case.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -801,9 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="496">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -832,10 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-          <folding>
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -846,48 +718,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_GroceryListMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1047">
+          <caret line="70" column="40" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Scratch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/Contact.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/MobilePhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="e#1636#1637#0" expanded="true" />
-            <element signature="e#1691#1692#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/MainMobile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="e#4693#4694#0" expanded="true" />
-            <element signature="e#4748#4749#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="955">
+          <caret line="143" lean-forward="true" selection-start-line="143" selection-end-line="143" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_GroceryListMain.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Section_8_Arrays/Array_3_Lists_Challenge_1/MobilePhone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="64" column="52" lean-forward="true" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="52" />
+        <state relative-caret-position="417">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1722#1723#0" expanded="true" />
+            <element signature="e#1777#1778#0" expanded="true" />
           </folding>
         </state>
       </provider>
